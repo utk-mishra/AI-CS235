@@ -1,0 +1,4 @@
+A game of sticks using Minimax algorithm and Alpha-Beta pruning.
+
+g++ gos.cpp -o gameofsticks
+./gameofsticks
