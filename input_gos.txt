@@ -1,0 +1,15 @@
+#input of gos
+
+This input file is only for testcases when the user chooses the Option-1 which is "AI vs AI" game.
+
+Input-1:
+Enter your choice: 1
+Number of sticks: 14
+
+Input-2:
+Enter your choice: 1
+Number of sticks: 21
+
+Input-3:
+Enter your choice: 1
+Number of sticks: 53
