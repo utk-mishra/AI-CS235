@@ -1,13 +1,16 @@
 This input file is only for testcases when the user chooses the Option-1 which is "AI vs AI" game.
 
 Input-1:
-Enter your choice: AIvsAI
+
 Number of sticks: 4
+Enter your choice: AIvsAI
 
 Input-2:
-Enter your choice: AIvsAI
+
 Number of sticks: 6
+Enter your choice: AIvsAI
 
 Input-3:
-Enter your choice: AIvsAI
+
 Number of sticks: 25
+Enter your choice: AIvsAI
