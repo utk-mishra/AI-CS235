@@ -1,0 +1,128 @@
+output 1:
+
+toss time....
+play 1 won the toss 
+Player 1's turn
+
+total sticks left = 4
+
+number of sticks picked = 3
+Player 2's turn
+
+total sticks left = 1
+
+play 1 win
+
+
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+
+
+toss time....
+play 1 won the toss 
+Player 1's turn
+
+total sticks left = 6
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 5
+
+number of sticks picked by computer =2
+Player 1's turn
+
+total sticks left = 3
+
+number of sticks picked = 2
+Player 2's turn
+
+total sticks left = 1
+
+play 1 win
+
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+
+output3:
+
+toss time....
+play 1 won the toss 
+Player 1's turn
+
+total sticks left = 25
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 24
+
+number of sticks picked by computer =3
+Player 1's turn
+
+total sticks left = 21
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 20
+
+number of sticks picked by computer =1
+Player 1's turn
+
+total sticks left = 19
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 18
+
+number of sticks picked by computer =3
+Player 1's turn
+
+total sticks left = 15
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 14
+
+number of sticks picked by computer =1
+Player 1's turn
+
+total sticks left = 13
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 12
+
+number of sticks picked by computer =3
+Player 1's turn
+
+total sticks left = 9
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 8
+
+number of sticks picked by computer =1
+Player 1's turn
+
+total sticks left = 7
+
+number of sticks picked = 1
+Player 2's turn
+
+total sticks left = 6
+
+number of sticks picked by computer =3
+Player 1's turn
+
+total sticks left = 3
+
+number of sticks picked = 2
+Player 2's turn
+
+total sticks left = 1
+
+play 1 win
